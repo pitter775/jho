@@ -1017,6 +1017,17 @@ section {
     .iconmod {
         text-align: center;
     }
+    .count-box {
+        text-align: left;
+    }
+    .counts .count-box p {
+        padding: 15px 0 0 0;
+        margin: 0 0 0 0px;
+        font-family: "Raleway", sans-serif;
+        font-size: 14px;
+        color: #49788c;
+        text-align: left;
+    }
 }
 
 
