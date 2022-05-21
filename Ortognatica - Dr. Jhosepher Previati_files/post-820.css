@@ -685,7 +685,8 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-d5d7a9d:not(.elementor-motion-effects-element-type-background),
 .elementor-820 .elementor-element.elementor-element-d5d7a9d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("https://drromulofischer.com/wp-content/uploads/2021/12/Bannerctablog.png");
+    /* background-image: url("https://drromulofischer.com/wp-content/uploads/2021/12/Bannerctablog.png"); */
+    background-color: #B7860F;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
