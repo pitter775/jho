@@ -81,8 +81,8 @@
     letter-spacing: var( --e-global-typography-b0e097a-letter-spacing);
     word-spacing: var( --e-global-typography-b0e097a-word-spacing);
     fill: var( --e-global-color-97fd0d2);
-    color: var( --e-global-color-97fd0d2);
-    background-color: var( --e-global-color-2db2ea5);
+    color: #FFF;
+    background-color: #0f625d;
     border-radius: 4px 4px 4px 4px;
     padding: 18px 40px 18px 40px;
 }
@@ -173,7 +173,7 @@
 }
 
 .elementor-820 .elementor-element.elementor-element-e9aac4c .elementor-heading-title {
-    color: #8C400B;
+    color: #B7860F;
     font-family: "Inter", Sans-serif;
     font-size: 36px;
     font-weight: 600;
@@ -201,9 +201,9 @@
     line-height: var( --e-global-typography-b0e097a-line-height);
     letter-spacing: var( --e-global-typography-b0e097a-letter-spacing);
     word-spacing: var( --e-global-typography-b0e097a-word-spacing);
-    fill: #FFFFFF;
-    color: #FFFFFF;
-    background-color: #000000;
+    fill: #000;
+    color: #000;
+    background-color: #f7e6c0;
     border-radius: 4px 4px 4px 4px;
     padding: 18px 40px 18px 40px;
 }
@@ -211,7 +211,7 @@
 .elementor-820 .elementor-element.elementor-element-bc34e0c .elementor-button:hover,
 .elementor-820 .elementor-element.elementor-element-bc34e0c .elementor-button:focus {
     color: #FFFFFF;
-    background-color: #8C400B;
+    background-color: #B7860F;
 }
 
 .elementor-820 .elementor-element.elementor-element-bc34e0c .elementor-button:hover svg,
@@ -272,8 +272,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-15fde84 {
 
 .elementor-820 .elementor-element.elementor-element-b1feca2:not(.elementor-motion-effects-element-type-background),
 .elementor-820 .elementor-element.elementor-element-b1feca2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #FFFBF9;
-    background-image: url("https://drromulofischer.com/wp-content/uploads/2021/12/bg-propósito.png");
+    background-color: #0a2332;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -463,7 +462,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-1bd13a5 .elementor-repeater-item-61ee0a8 .swiper-slide-bg {
     background-color: #833ca3;
-    background-image: url(https://drromulofischer.com/wp-content/uploads/2022/04/quexuda.jpg);
+    background-image: url(../assets/img/bene/01.jpg);
     background-size: cover;
 }
 
@@ -495,7 +494,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-1bd13a5 .elementor-repeater-item-0e06227 .swiper-slide-bg {
     background-color: #833ca3;
-    background-image: url(https://drromulofischer.com/wp-content/uploads/2022/04/hambug.jpg);
+    background-image: url(../assets/img/bene/02.jpg);
     background-size: cover;
 }
 
@@ -527,7 +526,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-1bd13a5 .elementor-repeater-item-10b7193 .swiper-slide-bg {
     background-color: #833ca3;
-    background-image: url(https://drromulofischer.com/wp-content/uploads/2022/04/sorriso.jpg);
+    background-image: url(../assets/img/bene/03.jpg);
     background-size: cover;
 }
 
@@ -559,7 +558,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-1bd13a5 .elementor-repeater-item-74f946d .swiper-slide-bg {
     background-color: #833ca3;
-    background-image: url(https://drromulofischer.com/wp-content/uploads/2022/04/espelho.jpg);
+    background-image: url(../assets/img/bene/04.jpg);
     background-size: cover;
 }
 
