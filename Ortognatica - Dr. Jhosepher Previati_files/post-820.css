@@ -311,7 +311,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-15fde84 {
 
 .elementor-820 .elementor-element.elementor-element-29bfb04 {
     text-align: left;
-    color: #8C400B;
+    color: #0A2332;
     font-family: "Inter", Sans-serif;
     font-size: 19px;
     font-weight: normal;
@@ -721,7 +721,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-675aefe {
     text-align: center;
-    color: #8C400B;
+    color: #0A2332;
     font-family: "Inter", Sans-serif;
     font-size: 19px;
     font-weight: normal;
@@ -756,7 +756,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-9d9e6d8 {
     text-align: center;
-    color: #8C400B;
+    color: #0A2332;
     font-family: "Inter", Sans-serif;
     font-size: 19px;
     font-weight: normal;
@@ -793,7 +793,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-d092903 {
     text-align: center;
-    color: #8C400B;
+    color: #0A2332;
     font-family: "Inter", Sans-serif;
     font-size: 19px;
     font-weight: normal;
@@ -828,7 +828,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-cd0fc0c {
     text-align: center;
-    color: #8C400B;
+    color: #0A2332;
     font-family: "Inter", Sans-serif;
     font-size: 19px;
     font-weight: normal;
@@ -893,7 +893,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 
 .elementor-820 .elementor-element.elementor-element-916a465 {
     text-align: center;
-    color: #8C400B;
+    color: #0A2332;
     font-family: "Inter", Sans-serif;
     font-size: 19px;
     font-weight: normal;
@@ -904,7 +904,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-4074b41 {
 .elementor-820 .elementor-element.elementor-element-916a465>.elementor-widget-container {
     margin: 0px 400px 0px 400px;
     padding: 14px 16px 01px 16px;
-    background-color: #f4e4cc;
+    /* background-color: #f4e4cc; */
 }
 
 .elementor-820 .elementor-element.elementor-element-d7de8d1 {
@@ -995,7 +995,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-dcc6b79 {
 }
 
 .elementor-820 .elementor-element.elementor-element-d14cc99 .elementor-cta__content {
-    min-height: 56vh;
+    /* min-height: 56vh; */
     text-align: center;
 }
 
@@ -1035,7 +1035,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-dcc6b79 {
 }
 
 .elementor-820 .elementor-element.elementor-element-a7fd7e9 .elementor-cta__content {
-    min-height: 56vh;
+    /* min-height: 56vh; */
     text-align: center;
 }
 
@@ -1075,7 +1075,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-dcc6b79 {
 }
 
 .elementor-820 .elementor-element.elementor-element-5ac6f57 .elementor-cta__content {
-    min-height: 56vh;
+    /* min-height: 56vh; */
     text-align: center;
 }
 
@@ -1115,7 +1115,7 @@ body.rtl .elementor-820 .elementor-element.elementor-element-dcc6b79 {
 }
 
 .elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__content {
-    min-height: 56vh;
+    /* min-height: 56vh; */
     text-align: center;
 }
 
@@ -2942,16 +2942,16 @@ body:not(.rtl) .elementor-820 .elementor-element.elementor-element-546578b .elem
         --e-column-margin-left: 0px;
     }
     .elementor-820 .elementor-element.elementor-element-d14cc99 .elementor-cta__content {
-        min-height: 73vh;
+        /* min-height: 73vh; */
     }
     .elementor-820 .elementor-element.elementor-element-a7fd7e9 .elementor-cta__content {
-        min-height: 73vh;
+        /* min-height: 73vh; */
     }
     .elementor-820 .elementor-element.elementor-element-5ac6f57 .elementor-cta__content {
-        min-height: 73vh;
+        /* min-height: 73vh; */
     }
     .elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__content {
-        min-height: 73vh;
+        /* min-height: 73vh; */
     }
     .elementor-820 .elementor-element.elementor-element-5d82551 {
         padding: 64px 20px 64px 20px;
