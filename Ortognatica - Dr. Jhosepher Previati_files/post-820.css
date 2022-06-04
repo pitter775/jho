@@ -1960,11 +1960,13 @@ body.rtl .elementor-820 .elementor-element.elementor-element-47dafc9 {
 
 .elementor-820 .elementor-element.elementor-element-584ddea:not(.elementor-motion-effects-element-type-background),
 .elementor-820 .elementor-element.elementor-element-584ddea>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F4F2ED;
-    background-image: url("https://drromulofischer.com/wp-content/uploads/2021/12/bg-contato.png");
-    background-position: center center;
+    /* verdinho */
+    background-color: #0c625e;
+    background-image: url("../assets/img/bgverde.png");
+    /* background-image: url("https://drromulofischer.com/wp-content/uploads/2021/12/bg-contato.png"); */
+    background-position: left;
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
 }
 
 .elementor-820 .elementor-element.elementor-element-584ddea {
