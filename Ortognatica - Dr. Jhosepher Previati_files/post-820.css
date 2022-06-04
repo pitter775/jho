@@ -1154,6 +1154,46 @@ body.rtl .elementor-820 .elementor-element.elementor-element-dcc6b79 {
     transition-duration: 1500ms;
 }
 
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__content {
+    /* min-height: 56vh; */
+    text-align: center;
+}
+
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__title {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 39px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__title:not(:last-child) {
+    margin-bottom: 23px;
+}
+
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__description {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.2em;
+}
+
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__description:not(:last-child) {
+    margin-bottom: 0px;
+}
+
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta:not(:hover) .elementor-cta__bg-overlay {
+    background-color: rgba(2, 1, 1, 0.39);
+}
+
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta:hover .elementor-cta__bg-overlay {
+    background-color: rgba(2, 1, 1, 0.39);
+}
+
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta .elementor-cta__bg,
+.elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta .elementor-cta__bg-overlay {
+    transition-duration: 1500ms;
+}
+
 .elementor-820 .elementor-element.elementor-element-5d82551>.elementor-container {
     max-width: 1216px;
 }
@@ -2490,6 +2530,15 @@ body:not(.rtl) .elementor-820 .elementor-element.elementor-element-546578b .elem
         font-size: 22px;
     }
     .elementor-820 .elementor-element.elementor-element-5ac6f57 .elementor-cta__description {
+        font-size: 15px;
+    }
+    .elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__content {
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__title {
+        font-size: 22px;
+    }
+    .elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__description {
         font-size: 15px;
     }
     .elementor-820 .elementor-element.elementor-element-b8e7bf4 .elementor-cta__content {
